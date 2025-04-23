@@ -1,2 +1,2 @@
 # Air-Quality-Monitor
-Air Quality Monitoring System Using Iot
+Air Quality Monitoring System Using IoT
